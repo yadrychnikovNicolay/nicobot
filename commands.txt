@@ -1,0 +1,37 @@
+```
+PREFIX == +
+
+COMMANDS ==
+  -ping -> pings the bot
+  -help -> displays this message
+  -avatar -> links your avatar
+  -rng [arg1] [arg2] -> returns a random number between arg1 and arg2
+  -should i -> returns a random answer, just like a true 8ball
+  -coinflip -> returns heads or tails randomly
+  -owner -> returns the bot owner github
+  -triggered -> returns a string (meme)
+  -lamren -> returns a twitch clip from Lamren
+  -breakfast -> bot joins channel you are in and plays audio queue (meme)
+  -normie -> bot joins channel you are in and plays audio queue (meme)
+  -himedoll -> returns a troll for Himedoll and joins channel you are in and plays audio queue (meme)
+  -wtf -> bot joins channel you are in and plays audio queue (meme)
+  -disgusting -> bot joins channel you are in and plays audio queue (meme)
+  -play [link] -> bot joins channel you are in and plays a youtube video
+  -leave -> forces the bot to leave the vocal channel
+  -mute @mention -> mutes the mentioned user
+  -userinfo -> shows your userinfo
+  -userinfo @mention -> shows the mentioned user's info
+  -serverinfo -> shows the server info
+  -say [message] -> makes the bot say something and deletes your message
+  -kick @mention -> kicks the mentioned user
+  -ban @mention -> bans the mentioned user
+  -purge [number between 2 and 100] -> bot deletes the specified number of messages
+  -xp -> shows your xp and level.
+
+ADDITIONS ==
+  -The bot has an anti swearing filter, it doesn't need any prefixes, once someone swears in the public chat, the bot will react with a random gif
+  -The bot awards you with xp for each message you post on the channel, for now it's only for fun
+
+COMMANDS COUNT == 24
+
+```
